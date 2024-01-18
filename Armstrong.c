@@ -20,5 +20,4 @@ int main()
     else 
     printf("Not an Armstrong\n"); // add a newline character
     return 0;
-
 }
