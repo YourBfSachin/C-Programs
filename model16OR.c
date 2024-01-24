@@ -11,16 +11,16 @@ char address[30];
   FILE *sr;
   sr=fopen("score.dat","a");
 do{
-  printf("Enter the registration no= ");
+  printf("Enter the registration no:");
   scanf("%s",Reg_no);
 
-  printf("Enter the name= ");
+  printf("Enter the name: ");
   scanf("%s",name);
 
-  printf("Enter the gender= ");
+  printf("Enter the gender: ");
   scanf("%s",gender);
 
-  printf("Enter the address ");
+  printf("Enter the address:");
   scanf("%s",address);
 
   printf("Do you want to continue (y/n) ? ");
