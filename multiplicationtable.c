@@ -1,3 +1,4 @@
+//Program to print multiplication table.
 #include<stdio.h>
 int main ()
 {
