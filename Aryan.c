@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Aryan loves girls.\nAnd Aryan purposes several girls at once and go to dates with daddy's money.");
+    printf("Aryan loves football./n He likes playing from his school's team.");
    return 0;
 }
